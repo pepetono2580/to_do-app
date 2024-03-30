@@ -18,6 +18,7 @@ def write_todos(to_dos_local, filepath=FILEPATH):
 
 
 if __name__ == "__main__":
-    # if it is anything outside this main, it will be executed anyways
+    # if it is anything outside this main, it will be executed anyway
     # this part will be executed if this script is executed
     print("Hello")
+    print(get_todos())
