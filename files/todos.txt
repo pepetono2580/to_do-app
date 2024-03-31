@@ -1,7 +1,6 @@
 prepare
 Buy plantsmake soup
 Clean the code
-something
 my new to do
 Master Python
 My newest todo item
